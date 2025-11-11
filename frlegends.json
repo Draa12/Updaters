@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.4.1",
+  "latest_version": "0.4.2",
   "username": "draakezz",
-  "version_code": 159,
+  "version_code": 161,
   "update_title": "New Update Available!",
   "changelog": [
     "Improved UI performance and animations",
@@ -13,7 +13,7 @@
   "download_url": "https://youtube.com/@draakezzz",
   "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
   "getsecret_url": "https://arahlink.id/dUzWWA7",
-  "release_date": "2025-10-09",
+  "release_date": "2025-11-12",
   "size": "100MB",
   "developer_message": "Update now to enjoy smoother performance and stability improvements!"
 }
