@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.4.1",
+  "latest_version": "0.4.2",
   "username": "draakezz",
   "version_code": 159,
   "update_title": "New Update Available!",
@@ -9,7 +9,7 @@
     "Fixed bugs in login screen",
     "Optimized network usage for better speed"
   ],
-  "update_required": false,
+  "update_required": true,
   "download_url": "https://youtube.com/@draakezzz",
   "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
   "getsecret_url": "https://arahlink.id/2tiwS",
