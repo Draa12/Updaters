@@ -1,0 +1,19 @@
+{
+  "latest_version": "4.9.5",
+  "username": "draakezz",
+  "version_code": 200425,
+  "update_title": "New Update Available!",
+  "changelog": [
+    "Improved UI performance and animations",
+    "Added dark mode toggle",
+    "Fixed bugs in login screen",
+    "Optimized network usage for better speed"
+  ],
+  "update_required": false,
+  "download_url": "https://youtube.com/@draakezzz",
+  "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
+  "getsecret_url": "https://arahlink.id/aUwB5EWA",
+  "release_date": "2025-11-20",
+  "size": "100MB",
+  "developer_message": "Update now to enjoy smoother performance and stability improvements!"
+}
