@@ -1,7 +1,7 @@
 {
-  "latest_version": " 0.4.1",
+  "latest_version": "0.4.1",
   "username": "draakezz",
-  "version_code": 160,
+  "version_code": 159,
   "update_title": "New Update Available!",
   "changelog": [
     "Fixed some features not working",
@@ -9,7 +9,7 @@
     "Add modpack map nürburgring and mod car",
     "Remove feature Chams"
   ],
-  "update_required": true,
+  "update_required": false,
   "download_url": "https://youtube.com/@draakezzz",
   "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
   "getsecret_url": "https://arahlink.id/2tiwS",
