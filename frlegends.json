@@ -1,19 +1,19 @@
 {
   "latest_version": "0.4.1",
   "username": "draakezz",
-  "version_code": 159,
+  "version_code": 160,
   "update_title": "New Update Available!",
   "changelog": [
-    "Improved UI performance and animations",
-    "Added dark mode toggle",
-    "Fixed bugs in login screen",
-    "Optimized network usage for better speed"
+    "Fixed some features not working",
+    "Fixed Unlimited money",
+    "Add modpack map nürburgring and mod car",
+    "Remove feature Chams"
   ],
-  "update_required": false,
+  "update_required": true,
   "download_url": "https://youtube.com/@draakezzz",
   "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
   "getsecret_url": "https://arahlink.id/2tiwS",
-  "release_date": "2025-11-11",
-  "size": "100MB",
+  "release_date": "2025-1-6",
+  "size": "160MB",
   "developer_message": "Update now to enjoy smoother performance and stability improvements!"
 }
