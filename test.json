@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.4.2",
+  "latest_version": "0.4.4",
   "username": "draakezz",
-  "version_code": 177,
+  "version_code": 178,
   "update_title": "New Update Available!",
   "changelog": [
     "Fixed some features not working",
@@ -9,7 +9,7 @@
     "Add modpack map nürburgring and mod car",
     "Remove feature Chams"
   ],
-  "update_required": false,
+  "update_required": true,
   "download_url": "https://youtu.be/Ag_Qxfr7yFc",
   "mirror_url": "https://safefileku.com/download/LW7zSL6gBmRV54RM",
   "getsecret_url": "https://arahlink.id/mgtb",
