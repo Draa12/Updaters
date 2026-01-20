@@ -1,19 +1,18 @@
 {
-  "latest_version": "0.4.1",
+  "latest_version": "0.4.3",
   "username": "draakezz",
   "version_code": 159,
   "update_title": "New Update Available!",
   "changelog": [
-    "Improved UI performance and animations",
-    "Added dark mode toggle",
-    "Fixed bugs in login screen",
-    "Optimized network usage for better speed"
+    
+    "Fixed bugs in login screen"
+    
   ],
-  "update_required": false,
-  "download_url": "https://youtube.com/@draakezzz",
-  "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
+  "update_required": true,
+  "download_url": "https://youtu.be/OhbBiBfzyE0",
+  "mirror_url": "https://safefileku.com/download/97cXmcM8wShdD7L1",
   "getsecret_url": "https://arahlink.id/rTkOt",
   "release_date": "2025-11-11",
-  "size": "100MB",
+  "size": "117MB",
   "developer_message": "Update now to enjoy smoother performance and stability improvements!"
 }
