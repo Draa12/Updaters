@@ -1,19 +1,19 @@
 {
-  "latest_version": "0.4.2",
+  "latest_version": "0.4.3",
   "username": "draakezz",
   "version_code": 177,
   "update_title": "New Update Available!",
   "changelog": [
+    "Fixed login issue",
     "Fixed some features not working",
-    "Fixed Unlimited money",
-    "Add modpack map nürburgring and mod car",
-    "Remove feature Chams"
+    "Fixed Unlimited money"
+    
   ],
-  "update_required": false,
-  "download_url": "https://youtu.be/Ag_Qxfr7yFc",
-  "mirror_url": "https://safefileku.com/download/LW7zSL6gBmRV54RM",
+  "update_required": true,
+  "download_url": "https://youtu.be/OhbBiBfzyE0",
+  "mirror_url": "https://safefileku.com/download/97cXmcM8wShdD7L1",
   "getsecret_url": "https://arahlink.id/mgtb",
   "release_date": "2025-1-6",
-  "size": "160MB",
+  "size": "117MB",
   "developer_message": "Update now to enjoy smoother performance and stability improvements!"
 }
