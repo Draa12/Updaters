@@ -1,0 +1,19 @@
+{
+  "latest_version": "0.4.4",
+  "username": "draakezz",
+  "version_code": 179,
+  "update_title": "New Update Available!",
+  "changelog": [
+    "Fixed some features not working",
+    "Fixed Unlimited money",
+    "Add modpack map nürburgring and mod car",
+    "Remove feature Chams"
+  ],
+  "update_required": false,
+  "download_url": "https://youtu.be/Ag_Qxfr7yFc",
+  "mirror_url": "https://safefileku.com/download/LW7zSL6gBmRV54RM",
+  "getsecret_url": "https://arahlink.id/CWxe",
+  "release_date": "2025-1-6",
+  "size": "160MB",
+  "developer_message": "LOG UPDATE v1.1:\n- Perbaikan bug login\n- Penambahan fitur chams\n- Anti-ban diperbarui"
+}
