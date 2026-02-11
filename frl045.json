@@ -1,19 +1,18 @@
 {
-  "latest_version": "0.4.5",
+  "latest_version": "0.4.7",
   "username": "draakezz",
   "version_code": 179,
   "update_title": "New Update Available!",
   "changelog": [
-    "Fixed some features not working",
-    "Fixed Unlimited money",
-    "Add modpack map nürburgring and mod car",
-    "Remove feature Chams"
+    "Fixed light flare issue in linear fog.",
+    "Some minor optimization."
+    
   ],
   "update_required": true,
-  "download_url": "https://youtu.be/Ag_Qxfr7yFc",
-  "mirror_url": "https://safefileku.com/download/LW7zSL6gBmRV54RM",
+  "download_url": "https://youtu.be/oNfXLFBPlLs",
+  "mirror_url": "https://safefileku.com/download/HqrVxtg3WkNt5Qsb",
   "getsecret_url": "https://arahlink.id/WjyQaiM8",
   "release_date": "2025-1-6",
-  "size": "117MB",
+  "size": "118MB",
   "developer_message": "Update now to enjoy smoother performance and stability improvements!"
 }
