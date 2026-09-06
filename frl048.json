@@ -1,0 +1,17 @@
+{
+  "latest_version": "0.4.8",
+  "username": "draakezz",
+  "version_code": 213,
+  "update_title": "New Update Available!",
+  "changelog": [
+    "Fixed some car window sticker's not shown",
+    "Fixed some car modeling issue",
+    "Increased main camera clipping distance",
+    "Add clear button for multiplayer chat box"
+  ],
+  "update_required": false,
+  "download_url": "https://youtu.be/RmdhXLgHddw",
+  "getsecret_url": "https://arahlink.com/z2j6I",
+  "size": "119MB",
+  "developer_message": "Update now to enjoy smoother performance and stability improvements!"
+}
