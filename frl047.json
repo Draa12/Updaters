@@ -6,7 +6,7 @@
   "changelog": [
     "Fixed an occasional issue where the game would freeze when entering a custom online map"
   ],
-  "update_required": true,
+  "update_required": false,
   "download_url": "https://safefileku.com/download/2GhHnJePHPrspkAX",
   "getsecret_url": "https://arahlink.com/EwtH1",
   "size": "119MB",
