@@ -1,12 +1,12 @@
 {
-  "latest_version": "0.4.7.7",
+  "latest_version": "0.4.8",
   "username": "draakezz",
   "version_code": 209,
   "update_title": "New Update Available!",
   "changelog": [
     "Fixed an occasional issue where the game would freeze when entering a custom online map"
   ],
-  "update_required": false,
+  "update_required": true,
   "download_url": "https://safefileku.com/download/2GhHnJePHPrspkAX",
   "getsecret_url": "https://arahlink.com/kid7EZV",
   "size": "119MB",
