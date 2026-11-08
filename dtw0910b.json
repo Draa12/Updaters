@@ -4,12 +4,13 @@
   "version_code": 3100016,
   "update_title": "New Update Available!",
   "changelog": [
-    "Fixed some car window sticker's not shown",
-    "Fixed some car modeling issue",
-    "Increased main camera clipping distance",
-    "Add clear button for multiplayer chat box"
+  "Expanded the vehicle spawn pool with a wider variety of new vehicle options.",
+  "Introduced multiple new teleportation locations across the map for faster navigation.",
+  "Added a brand-new Multiplayer map: Delta Docks.",
+  "Added a new Gun Shop near Chad’s area.",
+  "Added 6 new weapons to Singleplayer."
   ],
-  "update_required": false,
+  "update_required": true,
   "download_url": "https://youtu.be/RmdhXLgHddw",
   "mirror_url": "https://safefileku.com/download/uaKSBqIIIIxdh0Xx",
   "getsecret_url": "https://arahlink.com/VPQk",
